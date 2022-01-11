@@ -7,6 +7,7 @@
 
 ![](https://raw.githubusercontent.com/nextcloud/screenshots/master/apps/Calendar/view_week.png)
 
+
 ## :blue_heart: :tada: Why is this so awesome?
 
 * :rocket: **Integration with other Nextcloud apps!** Like Contacts, Talk, Tasks, Deck and Circles
@@ -28,11 +29,13 @@ Then open the Calendar app from the app menu.
 
 ## :satellite: Support
 
+
 If you need assistance or want to ask a question about Calendar, you are welcome to [ask for support](https://help.nextcloud.com/c/apps/calendar) in our Forums.
 If you have found a bug, feel free to open a new Issue on GitHub. Keep in mind, that this repository only manages the frontend.
 If you find bugs or have problems with the CalDAV-Backend, you should ask the team at [Nextcloud server](https://github.com/nextcloud/server) for help!
 
 ## :earth_africa: Supported Browsers
+
 
 * Chrome/Chromium 76+
 * Edge 40+
@@ -76,6 +79,7 @@ make test
 ```
 
 ## :v: Code of conduct
+
 
 The Nextcloud community has core values that are shared between all members during conferences,
 hackweeks and on all interactions in online platforms including [Github](https://github.com/nextcloud) and [Forums](https://help.nextcloud.com).
